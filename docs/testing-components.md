@@ -6,4 +6,5 @@ During an integration test of a component, the following steps are used:
 1. all component parameters and dependencies are created (or mocked)
 2. component is rendered
 3. interactions with the component are realized.
+
 Ember Guide's “Testing Components” page of the guides is quite enough.

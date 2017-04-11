@@ -1,0 +1,1 @@
+This readme file outlines the structure details of the contents of this notes.

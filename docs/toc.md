@@ -1,5 +1,5 @@
 # Table of Contents
-# [Motivation](motivation.md)
+## [Motivation](motivation.md)
 ## [Introduction to Testing](introduction.md)
 #### Why write tests?
 #### What to be tested?

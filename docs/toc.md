@@ -1,18 +1,19 @@
 # Table of Contents
-## Introduction to Testing
+# [Motivation](motivation.md)
+## [Introduction to Testing](introduction.md)
 #### Why write tests?
 #### What to be tested?
 #### Testing as Ember Guide Suggested
-## Tools
+## [Tools](tools.md)
 ## Testing Practices
-#### Testing Components
+#### [Testing Components](testing-components.md)
 #### Testing Services
-#### Testing Routes
+#### [Testing Routes](testing-routes.md)
 #### Testing Initializers
-#### Testing Instance Initializers
-#### Testing Helpers
+#### [Testing Instance Initializers](testing-instance-initializers.md)
+#### [Testing Helpers](testing-helpers.md)
 #### Testing Ember Objects
-## Mocking in Detail
+## [Mocking in Detail](mocking-in-detail.md)
 #### Mocking in Integration Tests
 #### Mocking in Unit Tests
 ## Testing with UI Interactions
@@ -21,7 +22,7 @@
 ## To Addon Developers
 #### Testing in Addons
 #### Supporting test helpers for addons
-## Further Issues
+## [Further Issues](further-issues.md)
 #### Async Tests
 #### Suggested Practices
 ## References

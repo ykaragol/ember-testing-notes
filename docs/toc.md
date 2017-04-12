@@ -16,7 +16,7 @@
 * [Mocking in Detail](mocking-in-detail.md)
   * Mocking in Integration Tests
   * Mocking in Unit Tests
-* Testing with UI Interactions
+* [Testing with UI Interactions](./testing-with-ui-interactions.md)
   * Reading DOM Element Values
   * Changing DOM Element Values
   * Triggering DOM Events

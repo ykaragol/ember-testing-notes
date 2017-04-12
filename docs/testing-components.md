@@ -7,4 +7,7 @@ During an integration test of a component, the following steps are used:
 2. component is rendered
 3. interactions with the component are realized.
 
-Ember Guide's “Testing Components” page of the guides is quite enough.
+For these, Ember Guide's “[Testing Components](https://guides.emberjs.com/v2.12.0/testing/testing-components/)” section is quite enough.
+
+For further detail about mocking refer to the [Mocking In Detail](./mocking-in-detail.md) section of this notes.
+For further detail about interaction with component refer to the [Testing with UI Interactions](./testing-with-ui-interactions.md) section of this notes.
